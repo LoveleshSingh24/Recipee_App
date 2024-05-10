@@ -185,6 +185,7 @@ footer{
     text-align: center;
     position: fixed;
     padding:15px;
+    
 }
 /* responsive code */
 @media screen and (max-width:600px){
@@ -195,9 +196,7 @@ footer{
         width:80%;
         margin-top: 20px;
     }
-    footer{
-        min-height: 10vh;
-        min-width: 100%;
-        
+    main{
+        max-height:68vh;
     }
 }
