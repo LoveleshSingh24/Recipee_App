@@ -199,4 +199,10 @@ footer{
     main{
         max-height:79vh;
     }
+    .recipe-close-btn{
+        margin-right: 0px;
+    }
+    .recipe-details{
+        width:300px;
+    }
 }
